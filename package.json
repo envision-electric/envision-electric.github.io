@@ -1,13 +1,12 @@
 {
-  "name": "mad-magnitude",
-  "type": "module",
-  "version": "0.0.1",
+  "name": "constra",
+  "version": "2.1.0",
+  "description": "constra free construction template",
+  "author": "Themefisher",
+  "license": "MIT",
   "scripts": {
     "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro check && astro build",
-    "preview": "astro preview",
-    "astro": "astro"
+    "build": "astro build"
   },
   "dependencies": {
     "@astrojs/check": "^0.4.1",
